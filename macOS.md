@@ -2,8 +2,8 @@
 
 Collection of my favorite macOS apps
 
- NAME | DESCRIPTION | PRICING | FREE TRIAL? | APPSTORE? | SETAPP?
-------|-------------|---------|-------------|-----------|---------
+ NAME | DESCRIPTION | PRICING | FREE TRIAL? | STORES
+------|-------------|---------|-------------|-------
 [Alfred](https://alfred.app) | Very customizable spotlight replacement | Freemium | No | No | No
 [AirBuddy](https://airbuddy.app) | iOS airPods integration for macOS | Paid | No | No | Yes
 [Bartender](https://macbartender.com) | Reorganize your menu bar | Paid | Yes | No | Yes
