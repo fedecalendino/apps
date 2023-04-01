@@ -6,7 +6,8 @@
 
  NAME | DESCRIPTION | PRICING | TRIAL? | SOURCES
 ------|-------------|---------|--------|---------
-[1Password](https://1password.com) | Password manager | subscription | yes | website / appstore
+[1Password](https://1password.com) | password manager | subscription | yes | website / appstore
+[Spotify](https://spotify.com) | music and podcast streaming | subscription | freemium | website / appstore
 
 
 # MACOS
