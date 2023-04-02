@@ -22,7 +22,7 @@
 [iTerm](https://iterm2.com) | terminal replacement | free | - | website
 [JetBrains IDEs](https://jetbrains.com) | collection of ides and tools for developing in almost every modern language | free / subscription | - | website
 [pgAdmin](https://pgadmin.org) | postgres administration interface | free | - | website
-[Postgres.app](https://postgresapp.com) | quickly install and run a postgres server of any version | Free | - | website
+[Postgres.app](https://postgresapp.com) | quickly install and run a postgres server of any version | free | - | website
 [Postman](https://postman.com) | platform for api using and testing | free / subscription | - | website
 [TableTool](https://github.com/jakob/TableTool) | simple csv editor | free (opensource) | - | appstore
 
@@ -61,7 +61,7 @@
 [Amphetamine](https://apps.apple.com/app/amphetamine/id9379847042) | keep your mac awake for as long as you need | Free | - | appstore
 [AppCleaner](https://freemacsoft.net/appcleaner/) | thoroughly uninstall unwanted apps | free | - | website
 [AirBuddy](https://airbuddy.app) | ios airpods integration for macos | paid | no | website / setapp
-[coconutBattery](https://coconut-flavour.com/coconutbattery/) | battery health analyzer for mac and ios devices | Freemium | Yes | website
+[coconutBattery](https://coconut-flavour.com/coconutbattery/) | battery health analyzer for mac and ios devices | freemium | Yes | website
 [iStat Menus](https://bjango.com/mac/istatmenus) | an advance monitoring system for your menu bar | paid | yes |  website / appstore / setapp
 [GlobeKey](https://apps.apple.com/app/globekey/id1630555419) | remap the globe key of you mac keyboard | free | - | appstore
 [Karabiner Elements](https://karabiner-elements.pqrs.org) | remap any button or key on your mouse and keyboard | free | - | website
