@@ -18,7 +18,7 @@
 
  NAME | DESCRIPTION | PRICING | TRIAL? | SOURCES
 ------|-------------|---------|--------|---------
-[Docker Desktop](https://docker.com/products/docker-desktop/) | local management for containerized applications | free / subscription | - | website
+[OrbStack]([https://docker.com/products/docker-desktop/](https://orbstack.dev)) | fast and light docker alternative | free beta | - | website
 [iTerm](https://iterm2.com) | terminal replacement | free | - | website
 [JetBrains IDEs](https://jetbrains.com) | collection of ides and tools for developing in almost every modern language | free / subscription | - | website
 [pgAdmin](https://pgadmin.org) | postgres administration interface | free | - | website
@@ -61,6 +61,7 @@
 [Amphetamine](https://apps.apple.com/app/amphetamine/id9379847042) | keep your mac awake for as long as you need | Free | - | appstore
 [AppCleaner](https://freemacsoft.net/appcleaner/) | thoroughly uninstall unwanted apps | free | - | website
 [AirBuddy](https://airbuddy.app) | ios airpods integration for macos | paid | no | website / setapp
+[Boop](https://boop.okat.best) | collection of string manipulation scripts | free | - | apppstore
 [coconutBattery](https://coconut-flavour.com/coconutbattery/) | battery health analyzer for mac and ios devices | freemium | Yes | website
 [iStat Menus](https://bjango.com/mac/istatmenus) | an advance monitoring system for your menu bar | paid | yes |  website / appstore / setapp
 [GlobeKey](https://apps.apple.com/app/globekey/id1630555419) | remap the globe key of you mac keyboard | free | - | appstore
