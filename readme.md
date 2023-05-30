@@ -19,7 +19,7 @@
 
  NAME | DESCRIPTION | PRICING | TRIAL? | SOURCES
 ------|-------------|---------|--------|---------
-[OrbStack]([https://docker.com/products/docker-desktop/](https://orbstack.dev)) | fast and light docker alternative | free beta | - | website
+[OrbStack](https://orbstack.dev) | fast and light docker alternative | free beta | - | website
 [iTerm](https://iterm2.com) | terminal replacement | free | - | website
 [JetBrains IDEs](https://jetbrains.com) | collection of ides and tools for developing in almost every modern language | free / subscription | - | website
 [pgAdmin](https://pgadmin.org) | postgres administration interface | free | - | website
