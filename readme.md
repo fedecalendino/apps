@@ -7,6 +7,7 @@
 [Currency](https://apps.apple.com/us/app/currency/id284220417) | simple currency exchange converter | freemium | - | appstore
 [CryptoPro](https://cryptopro.app) | cryptocurrency portfolio tracker | free / subscription | - | appstore
 [Harvest](https://getharvest.com) | time, invoice and project management for freelancers | free / subscription | - | website / appstore
+[Photomator](https://www.pixelmator.com/photomator/) | photo editor | subscription / paid | - | appstore
 [Spotify](https://spotify.com) | music and podcast streaming | free / subscription | - | website / appstore
 [Windscribe](https://windscribe.com) | very cheap vpn client | subscription | - | website / appstore
 
