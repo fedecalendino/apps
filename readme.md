@@ -64,6 +64,7 @@
 [AirBuddy](https://airbuddy.app) | ios airpods integration for macos | paid | no | website / setapp
 [Boop](https://boop.okat.best) | collection of string manipulation scripts | free | - | apppstore
 [coconutBattery](https://coconut-flavour.com/coconutbattery/) | battery health analyzer for mac and ios devices | freemium | Yes | website
+[DaisyDisk](https://daisydiskapp.com/) | hard drive analyzer | paid | Yes | website
 [iStat Menus](https://bjango.com/mac/istatmenus) | an advance monitoring system for your menu bar | paid | yes |  website / appstore / setapp
 [GlobeKey](https://apps.apple.com/app/globekey/id1630555419) | remap the globe key of you mac keyboard | free | - | appstore
 [Karabiner Elements](https://karabiner-elements.pqrs.org) | remap any button or key on your mouse and keyboard | free | - | website
